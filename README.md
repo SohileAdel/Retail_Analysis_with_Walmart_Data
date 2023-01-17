@@ -1,4 +1,4 @@
-**In this project we focused retail analysis with Walmart data and answer the following questions:**
+**In this project we focused retail analysis with Walmart data and answered the following questions:**
 - Which store has maximum sales?
 - Which store has maximum varying sales?
 - Some holidays have a negative impact on sales. Find out holidays
